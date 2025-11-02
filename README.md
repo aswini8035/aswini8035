@@ -18,7 +18,7 @@ const aswini = {
     "Cloud Architecture",
     "Microservices",
     "Java 21",
-    "Spring Boot 5",
+    "Spring Boot 3.5",
     "AWS",
     "CI/CD",
     "Design Patterns",
@@ -29,7 +29,7 @@ const aswini = {
   ],
   technologies: {
     backend: [
-      "Spring Boot",
+      "Spring Boot 3.5",
       "Hibernate",
       "JPA",
       "REST APIs",
